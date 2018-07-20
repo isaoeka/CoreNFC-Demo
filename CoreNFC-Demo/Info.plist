@@ -41,5 +41,7 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NFCReaderUsageDescription</key>
+	<string>NFCを利用するよ！！良いよね？</string>
 </dict>
 </plist>
